@@ -1,4 +1,4 @@
-### Hi there 👋 this is my Computer Science journey
+### Hi there 👋 this is my Software Engineer journey
 I love 🚗 and 🎮.
 <!--
 **njd4dude/njd4dude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
